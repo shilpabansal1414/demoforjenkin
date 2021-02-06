@@ -11,5 +11,6 @@ public class class1
 		System.out.println("2nd test print");
 		System.out.println("3rd test print");
 		System.out.println("4th test print");
+		System.out.println("Added new line");
 	}
 }
